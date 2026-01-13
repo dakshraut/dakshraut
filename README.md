@@ -1,87 +1,287 @@
-<h1 align="center">Hi 👋, I'm Daksh Raut</h1>
-<h3 align="center">An Aspiring Software Development Engineer (SDE) from India And MERN Stack Developer</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=60&lines=Hi+👋,+I'm+Daksh+Raut;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</h1>
 
----
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=40&lines=An+Aspiring+Software+Development+Engineer+(SDE);MERN+Stack+Developer+from+India" alt="Typing SVG" />
+</h3>
 
-🔭 **I'm currently working on:** [Interview Preparation Board (Trello-like Platform)](Project Repository Link Coming Soon)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dakshraut&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/dakshraut?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+  <img src="https://img.shields.io/badge/Status-Coding%20🚀-brightgreen?style=for-the-badge" alt="status" />
+</div>
 
-🌱 **I'm currently learning:** Advanced Data Structures & Algorithms for technical interviews, System Design - Microservices, Distributed Systems, Database Scaling, Cloud Technologies - AWS/GCP deployment and management, Backend Engineering - Performance optimization, API design, caching strategies
-
-👯 **I'm looking to collaborate on:** Open-source projects related to: System design implementations (distributed systems, caching strategies, load balancing), Developer tools that enhance productivity and learning, Full-stack applications with complex backend architectures
-
-🤝 **I'm looking for help with:** Advanced system design concepts and scalable backend architectures for handling high-concurrency applications
-
-👨‍💻 **All of my projects are available at:** [https://github.com/dakshraut](https://github.com/dakshraut)
-
-💬 **Ask me about:** Full-Stack Development - MERN stack implementations, DSA & Problem Solving - Algorithm optimization techniques, Web Performance - Optimization strategies I've implemented (40% faster load times), Interview Preparation - My journey and preparation strategies
-
-📫 **How to reach me:** **Email:** dakshraut1405@gmail.com **LinkedIn:** https://www.linkedin.com/in/daksh-raut-a659b0250/
-
-📄 **Know about my experiences:** 
-[View My Resume](https://drive.google.com/file/d/1qrRd0U6ntk3WZQQuTxt0t5oqFcSkJwcg/view?usp=sharing)
-
-**Quick Experience Summary:**
-
-**🎓 Education:**
-- B.Tech in Computer Science @ DBATU (2022-2026) | CGPA: X.X/10.0
-- Relevant Coursework: DSA, OOP, DBMS, OS, Computer Networks
-
-**💼 Professional Experience:**
-- **MERN Stack Intern** @ Play Labs (Dec 2025 - Present)
-  - Enhanced API performance by 40% through database indexing
-  - Improved user engagement by 30% with responsive UI/UX
-- **Web Development Intern** @ MindShift Technologies
-  - Boosted user engagement by 40% across 5+ web applications
-  - Reduced page load time by 30% through code optimization
-
-**🏆 Key Achievements:**
-- 40% API performance improvement @ Play Labs
-- 30% faster page loads @ MindShift Technologies
-- NCC 'A' Certificate with 100% completion rate
-
-⚡ **Fun fact:** I approach debugging with the same strategic discipline I learned in NCC drills - systematic, persistent, and always mission-focused! 💻🎖️
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/@daksh-raut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@daksh-raut" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/daksh-raut-a659b0250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daksh-raut" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/25086054/daksh-raut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="daksh-raut" height="30" width="40" /></a>
-<a href="https://instagram.com/daksh1234count" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daksh1234count" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/dakshraut1405" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dakshraut1405" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dakshraut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dakshraut" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/daksh_raut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="daksh_raut" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/dakshramlhn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dakshramlhn" height="30" width="40" /></a>
-</p>
-
----
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>
-</p>
-
----
+<br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dakshraut&show_icons=true&theme=radical" alt="dakshraut stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dakshraut&theme=radical" alt="dakshraut streak" height="180"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22F700&center=true&vCenter=true&width=435&lines=🚀+Currently+Working+On;📚+Currently+Learning;🤝+Looking+To+Collaborate;💡+Looking+For+Help;💻+All+My+Projects;💬+Ask+Me+About;📫+How+To+Reach+Me;📄+My+Experiences;⚡+Fun+Fact" alt="Typing SVG" />
+  </a>
 </p>
+
+<br>
+
+<div align="center">
+  
+| 🔭 **Currently Working On** | 🌱 **Currently Learning** |
+|-----------------------------|---------------------------|
+| **[Interview Preparation Board](Project Repository Link Coming Soon)**<br>A Trello-like platform for tracking coding problems, system design prep, and behavioral questions with real-time collaboration features. | • Advanced Data Structures & Algorithms<br>• System Design (Microservices, Distributed Systems)<br>• Cloud Technologies (AWS/GCP)<br>• Backend Engineering optimizations |
+
+| 👯 **Looking To Collaborate** | 🤝 **Looking For Help** |
+|-------------------------------|--------------------------|
+| • Open-source system design projects<br>• Developer productivity tools<br>• Full-stack applications with complex architectures | • Advanced system design concepts<br>• Scalable backend architectures<br>• High-concurrency application design |
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dakshraut&theme=radical&no-frame=true&row=1&column=6" alt="trophy" />
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/dakshraut">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dakshraut&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakshraut&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=8" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dakshraut&theme=radical&hide_border=true&background=0d1117&fire=FF0000&currStreakLabel=FF0000" alt="streak stats" />
+</div>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/dakshraut">
+    <img src="https://activity-graph.herokuapp.com/graph?username=dakshraut&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=00FF00" alt="activity graph" />
+  </a>
+</p>
+
+<br>
+
+<div align="center">
+  
+### 👨‍💻 **All My Projects**
+[![GitHub](https://img.shields.io/badge/-Visit_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dakshraut)
+
+### 💬 **Ask Me About**
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/DSA-FF6B6B?style=for-the-badge&logo=leetcode&logoColor=white" />
+</p>
+
+</div>
+
+<br>
+
+<div align="center" style="background: linear-gradient(90deg, #0d1117, #161b22, #0d1117); padding: 20px; border-radius: 10px; border: 1px solid #30363d;">
+
+### 📫 **How To Reach Me**
+<p align="center">
+  <a href="mailto:dakshraut1405@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/daksh-raut-a659b0250/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+</div>
+
+<br>
+
+<details>
+<summary><h3>📄 <b>Know About My Experiences</b></h3></summary>
+<br>
+
+<div align="center">
+
+### 🎓 **Education**
+**B.Tech in Computer Science** @ DBATU (2022-2026)  
+*Relevant Coursework: Data Structures, OOP, DBMS, OS, Computer Networks*
+
+### 💼 **Professional Experience**
+<table>
+  <tr>
+    <td><b>MERN Stack Intern</b> @ Play Labs</td>
+    <td><b>Dec 2025 - Present</b></td>
+  </tr>
+  <tr>
+    <td colspan="2">• Enhanced API performance by 40% through database indexing<br>• Improved user engagement by 30% with responsive UI/UX</td>
+  </tr>
+  <tr>
+    <td><b>Web Development Intern</b> @ MindShift Technologies</td>
+    <td><b>2024</b></td>
+  </tr>
+  <tr>
+    <td colspan="2">• Boosted user engagement by 40% across 5+ web applications<br>• Reduced page load time by 30% through code optimization</td>
+  </tr>
+</table>
+
+### 🏆 **Key Achievements**
+<p align="center">
+  <img src="https://img.shields.io/badge/40%25-API_Performance_Improvement-00FF00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/30%25-Faster_Page_Loads-00D4FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NCC_A_Certificate-FF6B6B?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1qrRd0U6ntk3WZQQuTxt0t5oqFcSkJwcg/view?usp=sharing">
+    <img src="https://img.shields.io/badge/📥_Download_Resume-8A2BE2?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>
+</p>
+
+</div>
+</details>
+
+<br>
+
+<div align="center">
+
+### ⚡ **Fun Fact**
+<div style="background: linear-gradient(90deg, #FF6B6B, #4ECDC4, #45B7D1); padding: 15px; border-radius: 10px; animation: gradient 3s ease infinite; background-size: 400% 400%;">
+  <p style="color: white; font-weight: bold; font-size: 18px; margin: 0;">
+    🎖️ I approach debugging with the same strategic discipline I learned in NCC drills - systematic, persistent, and always mission-focused!
+  </p>
+</div>
+
+<style>
+  @keyframes gradient {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+  }
+</style>
+
+</div>
+
+<br>
+
+<h3 align="center">🔗 Connect With Me</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/daksh-raut-a659b0250/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+  </a>
+  <a href="https://www.leetcode.com/daksh_raut" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/dakshramlhn" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/dakshraut1405" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <a href="https://github.com/dakshraut" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<br>
+
+<h3 align="center">🛠️ Languages and Tools</h3>
+<p align="center">
+  <!-- Programming Languages -->
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+  </a>
+  
+  <!-- Frontend -->
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
+  </a>
+  
+  <!-- Backend -->
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express" />
+  </a>
+  
+  <!-- Databases -->
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
+  </a>
+  
+  <!-- Tools -->
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+  </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws" />
+  </a>
+</p>
+
+<br>
+
+<div align="center">
+  
+### 🎯 **Featured Projects**
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">🎯 Algorithm Visualizer</h3>
+      <p align="center">Interactive visualization of 12+ DSA algorithms</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwind-css&logoColor=white" />
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🏪 StoreRate Platform</h3>
+      <p align="center">Multi-role store rating platform with JWT auth</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">💰 Smart Expense Tracker</h3>
+      <p align="center">AI-based expense categorization with analytics</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+  
+### 📊 **Weekly Development Breakdown**
+```text
+🚀 This Week I Spent My Time On:
+⚡️ Languages:
+JavaScript    ████████████████████░░░░░   85.0%
+Python        ████░░░░░░░░░░░░░░░░░░░░░   15.0%
+Other         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+🔥 Editors:
+VS Code       █████████████████████████   100.0%
+
+💻 Operating System:
+Windows       █████████████████████████   100.0%
