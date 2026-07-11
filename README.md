@@ -42,7 +42,9 @@
 
 ## 🧬 About Me
 
-<img align="right" width="38%" src="https://raw.githubusercontent.com/matiassingers/matiassingers/master/assets/rocket-power.gif">
+<table>
+<tr>
+<td width="60%" valign="top">
 
 ```yaml
 engineer:
@@ -54,17 +56,43 @@ engineer:
   focus:
     - Designing production-grade AI/ML systems for real-world impact
     - Engineering scalable full-stack platforms (MERN + FastAPI)
-    - Applying computer vision & geospatial intelligence to environmental monitoring
-    - Building secure, high-performance REST APIs with sub-200ms latency
-    - Translating LLM capabilities into recruiter-grade, real product features
+    - Applying computer vision & geospatial intelligence to
+      environmental monitoring
+    - Building secure, high-performance REST APIs with
+      sub-200ms latency
+    - Translating LLM capabilities into recruiter-grade,
+      real product features
 
   philosophy: >
     I build software the way senior engineers build trust — through
-    measurable performance, clean architecture, and systems that scale
-    under real load. My work spans satellite-imagery classification,
-    LLM-driven interview intelligence, and geospatial crime prediction —
-    always shipped with security, speed, and impact in mind.
+    measurable performance, clean architecture, and systems that
+    scale under real load. My work spans satellite-imagery
+    classification, LLM-driven interview intelligence, and
+    geospatial crime prediction — always shipped with security,
+    speed, and impact in mind.
 ```
+
+</td>
+<td width="40%" valign="top">
+
+<div align="center">
+
+**Snapshot**
+
+| | |
+|---|---|
+| 🎓 CGPA | `8.91 / 10` |
+| 💻 LeetCode | `1588 · Top 24.1%` |
+| 🧪 Internships | `2 (MRSAC · Play Labs)` |
+| ⚡ Projects Shipped | `3 production-grade` |
+| 📉 Avg. Latency Cut | `~40–90%` |
+| 🎯 Status | `Actively Interviewing` |
+
+</div>
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
@@ -262,21 +290,14 @@ Delivered production features across multiple client engagements while optimizin
 
 <div align="center">
 
-**Amazon Web Services**
+| Provider | Certification | Badge |
+|:---|:---|:---:|
+| **Amazon Web Services** | Cloud Practitioner / Foundations | <img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=1a1a2e"/> |
+| **Oracle** | Certified Foundations Associate | <img src="https://img.shields.io/badge/Oracle-Certified-F80000?style=flat-square&logo=oracle&logoColor=white&labelColor=1a1a2e"/> |
+| **NPTEL** | Certified Elective Course | <img src="https://img.shields.io/badge/NPTEL-Certified-6D28D9?style=flat-square&logo=googlescholar&logoColor=white&labelColor=1a1a2e"/> |
+| **Cisco** | Networking Academy | <img src="https://img.shields.io/badge/Cisco-Certified-1BA0D7?style=flat-square&logo=cisco&logoColor=white&labelColor=1a1a2e"/> |
 
-<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=1a1a2e"/>
-
-**Oracle**
-
-<img src="https://img.shields.io/badge/Oracle-Certified%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=1a1a2e"/>
-
-**NPTEL**
-
-<img src="https://img.shields.io/badge/NPTEL-Certified%20Course-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1a1a2e"/>
-
-**Cisco**
-
-<img src="https://img.shields.io/badge/Cisco-Networking%20Academy-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=1a1a2e"/>
+<sub>*Swap in your exact certification titles and credential IDs above for full accuracy.*</sub>
 
 </div>
 
@@ -311,12 +332,13 @@ Delivered production features across multiple client engagements while optimizin
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dakshraut&show_icons=true&theme=radical&hide_border=true&bg_color=0f0f1a&title_color=A78BFA&icon_color=8B5CF6&text_color=c9c9d9"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=dakshraut&theme=radical&hide_border=true&background=0f0f1a&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dakshraut&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0f0f1a&title_color=A78BFA&icon_color=8B5CF6&text_color=c9c9d9&ring_color=7C3AED"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dakshraut&theme=radical&hide_border=true&background=0f0f1a&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=c9c9d9&dates=c9c9d9"/>
 
-<br/>
+<br/><br/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakshraut&layout=compact&theme=radical&hide_border=true&bg_color=0f0f1a&title_color=A78BFA&text_color=c9c9d9"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakshraut&layout=compact&hide_border=true&bg_color=0f0f1a&title_color=A78BFA&text_color=c9c9d9&langs_count=8"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dakshraut&repo=Interview-AI&theme=radical&hide_border=true&bg_color=0f0f1a&title_color=A78BFA&text_color=c9c9d9"/>
 
 </div>
 
@@ -340,7 +362,7 @@ Delivered production features across multiple client engagements while optimizin
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=dakshraut&theme=react-dark&bg_color=0f0f1a&color=A78BFA&line=8B5CF6&point=ffffff&hide_border=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=dakshraut&custom_title=Contribution%20Activity&bg_color=0f0f1a&color=A78BFA&line=8B5CF6&point=E9D5FF&area=true&area_color=6D28D9&hide_border=true&title_color=A78BFA&text_color=c9c9d9"/>
 
 </div>
 
@@ -352,7 +374,13 @@ Delivered production features across multiple client engagements while optimizin
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/dakshraut/dakshraut/output/github-contribution-grid-snake-dark.svg"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dakshraut/dakshraut/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dakshraut/dakshraut/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/dakshraut/dakshraut/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+<sub>*Generated by a scheduled GitHub Action in the `dakshraut/dakshraut` repo — see `.github/workflows/snake.yml`.*</sub>
 
 </div>
 
@@ -361,6 +389,16 @@ Delivered production features across multiple client engagements while optimizin
 ---
 
 ## 🎯 Current Focus
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Learning-LLM%20Orchestration%20%26%20RAG-6D28D9?style=flat-square&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Building-AI%20Platforms%20%26%20APIs-7C3AED?style=flat-square&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Exploring-MLOps%20%26%20Geospatial%20ML-8B5CF6?style=flat-square&labelColor=1a1a2e"/>
+
+</div>
+
+<br/>
 
 ```yaml
 current_focus:
