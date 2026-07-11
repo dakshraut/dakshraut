@@ -117,7 +117,7 @@ engineer:
 
 <br/><br/>
 
-<img src="https://www.readmecodegen.com/api/social-icon?name=cplusplus,c,python,javascript,mysql,html5,css3&size=48&animation=shake"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,js,mysql,html,css&theme=dark&perline=7"/>
 
 <br/><br/><br/>
 
@@ -125,7 +125,7 @@ engineer:
 
 <br/><br/>
 
-<img src="https://www.readmecodegen.com/api/social-icon?name=react,tailwindcss,redux,figma&size=48&animation=shake"/>
+<img src="https://skillicons.dev/icons?i=react,tailwind,redux,figma&theme=dark&perline=4"/>
 
 <br/><br/><br/>
 
@@ -133,7 +133,7 @@ engineer:
 
 <br/><br/>
 
-<img src="https://www.readmecodegen.com/api/social-icon?name=nodejs,express,fastapi,mongodb,redis&size=48&animation=shake"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,redis&theme=dark&perline=5"/>
 
 <br/><br/><br/>
 
@@ -141,7 +141,11 @@ engineer:
 
 <br/><br/>
 
-<img src="https://www.readmecodegen.com/api/social-icon?name=git,github,githubactions,docker,googlecloud,visualstudiocode,powerbi&size=48&animation=shake"/>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,gcp,vscode&theme=dark&perline=6"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black&labelColor=0f0f1a"/>
 
 </div>
 
