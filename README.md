@@ -350,7 +350,9 @@ Delivered production features across multiple client engagements while optimizin
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dakshraut&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=dakshraut&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=7&title.color=A78BFA&text.color=c9c9d9&icon.color=8B5CF6&rank.color=A78BFA&border.radius=8"/>
+
+<sub>*Trophies populate over time based on GitHub activity — stars, commits, PRs, followers, and repo count.*</sub>
 
 </div>
 
