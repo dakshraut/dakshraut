@@ -113,27 +113,39 @@ engineer:
 
 <div align="center">
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,mysql,html,css&theme=dark" />
+<img src="https://img.shields.io/badge/-LANGUAGES-6D28D9?style=for-the-badge&labelColor=0f0f1a"/>
 
 <br/><br/>
 
-**Frontend**
+<img src="https://skillicons.dev/icons?i=cpp,c,python,js,mysql,html,css&theme=dark&perline=7"/>
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,redux,figma&theme=dark" />
+<br/><br/><br/>
 
-<br/><br/>
-
-**Backend & Databases**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,redis,py&theme=dark" />
+<img src="https://img.shields.io/badge/-FRONTEND-7C3AED?style=for-the-badge&labelColor=0f0f1a"/>
 
 <br/><br/>
 
-**Cloud, DevOps & Tooling**
+<img src="https://skillicons.dev/icons?i=react,tailwind,redux,figma&theme=dark&perline=4"/>
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,gcp,vscode,powerbi&theme=dark" />
+<br/><br/><br/>
+
+<img src="https://img.shields.io/badge/-BACKEND%20%26%20DATABASES-8B5CF6?style=for-the-badge&labelColor=0f0f1a"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,redis&theme=dark&perline=5"/>
+
+<br/><br/><br/>
+
+<img src="https://img.shields.io/badge/-CLOUD%2C%20DEVOPS%20%26%20TOOLING-A78BFA?style=for-the-badge&labelColor=0f0f1a"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,gcp,vscode&theme=dark&perline=6"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black&labelColor=0f0f1a"/>
 
 </div>
 
